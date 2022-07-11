@@ -18,6 +18,15 @@ public class PlayerMovement : MonoBehaviour
 
         animator.SetFloat("Horizontal", playerPosition.x);
         animator.SetFloat("Vertical", playerPosition.y);
+
+        if (playerPosition.x != 0 || playerPosition.y != 0)
+        {
+            animator.SetBool("isMoving", true);
+
+        } else
+        {
+            animator.SetBool("isMoving", false);
+        }
     }
 
     void FixedUpdate()
