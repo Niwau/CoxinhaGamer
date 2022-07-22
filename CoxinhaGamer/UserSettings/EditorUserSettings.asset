@@ -9,6 +9,7 @@ EditorUserSettings:
       value: 5b05025651070c5f0f585b7446705b44424e4c782d7e7134797b4963b0b16c3d
       flags: 0
     RecentlyUsedSceneGuid-1:
+<<<<<<< HEAD
       value: 0255570300565e5d0e0c592343710644414f4d7a7f7f73367d2d4e65e7b26239
       flags: 0
     RecentlyUsedSceneGuid-2:
@@ -21,6 +22,8 @@ EditorUserSettings:
       value: 570501040653590e5d0a5e72152007444016492c7f2970632e2a4d62b6b5603c
       flags: 0
     RecentlyUsedSceneGuid-5:
+=======
+>>>>>>> parent of 83b0f42 (Idk)
       value: 515250075c0c595e5f5a5e71122159444e4e4a2f7a7d7f602f284d66b4b76661
       flags: 0
     RecentlyUsedSceneGuid-6:
