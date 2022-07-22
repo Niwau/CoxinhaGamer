@@ -464,7 +464,7 @@ MonoBehaviour:
     m_Start: 0
     m_ClipIn: 0
     m_Asset: {fileID: -4571496031010531885}
-    m_Duration: 17.216666666666665
+    m_Duration: 39.95
     m_TimeScale: 1
     m_ParentTrack: {fileID: -6922637788269190589}
     m_EaseInDuration: 0
@@ -1231,11 +1231,14 @@ MonoBehaviour:
   - {fileID: -3167133866076110279}
 =======
   - {fileID: 2432221911788653007}
-  - {fileID: -5213453906459355180}
   - {fileID: 1427681354776345767}
   - {fileID: -153325506218336832}
   - {fileID: 1748307995529942948}
+<<<<<<< HEAD
 >>>>>>> parent of 83b0f42 (Idk)
+=======
+  - {fileID: -5213453906459355180}
+>>>>>>> parent of 1f488bd (Almost finishing first scene)
   m_FixedDuration: 0
   m_EditorSettings:
     m_Framerate: 60
